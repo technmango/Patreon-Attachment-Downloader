@@ -17,6 +17,6 @@
 
 
 Notes:
--Does not automatically scroll down to the load more button, but theres enough time for the user to do that themselves
--Can not confirm the downloads of any subcription 
--Very Slow Download/Click speeds, so internet speed/spam triggers can't be detected!
+Does not automatically scroll down to the load more button, but theres enough time for the user to do that themselves
+Can not confirm the downloads of any subcription 
+Very Slow Download/Click speeds, so internet speed/spam triggers can't be detected!
