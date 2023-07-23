@@ -17,6 +17,7 @@
 
 
 Notes:
+
 1.Does not automatically scroll down to the load more button, but theres enough time for the user to do that themselves
 
 2.Can not confirm the downloads of any subcription 
